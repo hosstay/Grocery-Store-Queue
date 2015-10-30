@@ -20,6 +20,7 @@ using namespace std;
 
 int main (void)
 {
+	
    //setting up the 5 lines of cashiers
    Cashier cashier1;
    Cashier cashier2;

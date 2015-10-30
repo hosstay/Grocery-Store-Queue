@@ -3,7 +3,7 @@
    X432Z869
    Program #8
 
-   This is a program that utilizes the stack STL to simulate a 10 hour day at
+   This is a program that utilizes the queue STL to simulate a 10 hour day at
    a grocery store using 5 cashier lines (queues) that each can hold 6
    customers.  
    

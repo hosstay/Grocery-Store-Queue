@@ -10,7 +10,6 @@
 */
 
 #include <iostream>
-#include <cassert>
 #include <queue>
 #include <fstream>
 #include <stdlib.h>
